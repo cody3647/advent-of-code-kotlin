@@ -3,7 +3,7 @@ package aockt.y2025
 import io.github.jadarma.aockt.test.AdventDay
 import io.github.jadarma.aockt.test.AdventSpec
 
-@AdventDay(2025, 5, "")
+@AdventDay(2025, 5, "Cafeteria")
 class Y2025D05Test: AdventSpec<Y2025D05>({
     partOne() {
         """
